@@ -1,0 +1,10 @@
+{
+  "subdomain": "darknight",
+  "domain": "til.my.id",
+  "email_or_discord": "admin@til.my.id",
+  "github_username": "augustsav",
+  "description": "The official domain name for the Vietnamese detective and crime-solving game project.",
+  "records": {
+    "NS":    ["ns1.desec.io", "ns2.desec.io"]
+  }
+}
